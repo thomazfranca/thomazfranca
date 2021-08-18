@@ -3,6 +3,7 @@
 - 🔭 Estudando desenvolvimento Web
 - 🌱 Aprendendo JAVA e JavaScript
 - 📫 trsf1990@gmail.com
+- 🖊️ https://www.linkedin.com/in/thomazfranca/
  <div>
   <a href="https://github.com/thomazfranca">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thomazfranca&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
