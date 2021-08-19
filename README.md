@@ -1,7 +1,7 @@
-### Hey Prazer sou o Thomaz França
+### Thomaz França
 
-- 🔭 Estudando desenvolvimento Web
-- 🌱 Aprendendo JAVA e JavaScript
+- 🔭 Estudando analise e desenvolvimento de software
+- 🌱 desenvolvedor web em aprendizado - JAVA e JavaScript
 - 📫 trsf1990@gmail.com
 - 🖊️ https://www.linkedin.com/in/thomazfranca/
  <div>
