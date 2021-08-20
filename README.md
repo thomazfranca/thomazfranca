@@ -1,7 +1,7 @@
 ### Thomaz França
 
-- 🎓 Estudando analise e desenvolvimento de sistemas
-- 💡 desenvolvedor web em aprendizado - JAVA e JavaScript
+- 🎓 Analise e Desenvolvimento de Sistemas
+- 💡  Desenvolvedor Web  - JAVA e JavaScript
 - 📫 trsf1990@gmail.com
 - 🖊️ https://www.linkedin.com/in/thomazfranca/
  <div>
