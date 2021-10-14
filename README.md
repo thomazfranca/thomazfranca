@@ -1,6 +1,7 @@
 ### Thomaz França
 
 - 🎓 Analise e Desenvolvimento de Sistemas
+- 💼 RD S.A (RaiaDrogasil)
 - 💡  Desenvolvedor Web  - JAVA e JavaScript
 - 📫 trsf1990@gmail.com
 - 🖊️ https://www.linkedin.com/in/thomazfranca/
