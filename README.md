@@ -1,8 +1,9 @@
 ### Thomaz França
 
-- 🎓 Analise e Desenvolvimento de Sistemas Senac Brasil.
-- 💼 Desenvolvedor Jr.
-- 💡  Desenvolvedor Web Formado pela Generation Brasil - JAVA e JavaScript.
+- 🎓 Curso - Analise e Desenvolvimento de Sistemas - Senac Brasil.
+- 💼 Mídia e Performance que tem experiência em desenvolvimeton web.
+- 💡  Analista de Mídia Formado pela SoulCode Academy - Google Ads, Meta Ads e Tik Tok Ads.
+- 💡  Analista Desenvolvedor Web Formado pela Generation Brasil - JAVA e JavaScript.
 - 📫 thomazfranca@gmail.com
 - 🖊️ https://www.linkedin.com/in/thomazfranca
 
