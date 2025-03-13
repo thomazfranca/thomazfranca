@@ -1,7 +1,7 @@
 ### Thomaz França
 
 - 🎓 Curso - Analise e Desenvolvimento de Sistemas - Senac Brasil.
-- 💼 Analista de dados pleno com foco em mídia e Performance.
+- 💼 Analista de dados pleno com foco em mídia, martech & performance.
 - 💡 Analista de Mídia Formado pela SoulCode Academy - Google Ads, Meta Ads e Tik Tok Ads.
 - 💡 Analista Desenvolvedor Web Formado pela Generation Brasil - JAVA e JavaScript.
 - 📫 thomazfranca@gmail.com
